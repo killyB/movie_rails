@@ -35,6 +35,7 @@ gem 'masonry-rails', '~> 0.2.4'
 gem 'haml', '~> 4.0.6'
 gem 'simple_form', '~> 3.1.0'
 gem 'spring', '~> 1.3.3'
+gem 'searchkick', '~> 0.8.7'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
